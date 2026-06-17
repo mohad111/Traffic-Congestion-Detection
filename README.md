@@ -44,6 +44,6 @@ python traffic_congestion.py \
 
 Sample output video:
 
-https://github.com/<username>/Traffic-Congestion-Detection/assets/OutPut_video.mp4
+https://github.com/mohad111/Traffic-Congestion-Detection/assets/OutPut_video.mp4
 
 
